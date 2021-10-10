@@ -4,6 +4,7 @@ data/covid-us-counties.csv
 data/airports.csv
 data/population_data.csv
 data/us_county_demographic_data.csv
+data/vaccine_locations.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
